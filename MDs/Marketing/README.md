@@ -13,7 +13,10 @@ Esta carpeta contiene los documentos estratégicos para convertir Infinity Ascen
 2. `CALENDARIO_30_DIAS.md`  
    Calendario operativo multicanal para los primeros 30 días: TikTok, Reels, Shorts, Instagram feed/stories, YouTube, Spotify/landing y revisión semanal de métricas.
 
-3. `OBJETIVOS_METRICAS_90_DIAS.md`  
+3. `CampanasVisuales/README.md`  
+   Instrucciones para que Andre genere manualmente imágenes por campaña usando las referencias visuales existentes del repo: AION, Peace, Portal, Dreams, Helmet Lore, Spotify, YouTube y Landing.
+
+4. `OBJETIVOS_METRICAS_90_DIAS.md`  
    Objetivos cuantitativos por red social desde la fecha base 2026-06-07: views, responses, seguidores, streams, saves y clicks para 30/60/90 días.
 
 ## Principio

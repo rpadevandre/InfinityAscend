@@ -432,12 +432,14 @@ Qué dejar de hacer:
 ### Visual
 
 - `Imagenes/INDICE_VISUAL.md` — qué imagen sirve para qué.
+- `MDs/Marketing/CampanasVisuales/README.md` — qué imágenes generar por campaña y cómo hacerlo usando referencias del repo.
 - `Imagenes/Instagram/` — assets iniciales para Instagram.
 
 ### Marketing
 
 - `MDs/Marketing/PLAN_ESTRATEGIA.md` — estrategia base.
 - `MDs/Marketing/CALENDARIO_30_DIAS.md` — publicación y validación día por día durante 30 días.
+- `MDs/Marketing/CampanasVisuales/README.md` — guía de producción visual por campaña.
 - `MDs/Marketing/OBJETIVOS_METRICAS_90_DIAS.md` — metas cuantitativas.
 - `PLAN_GENERAL_INFINITY_ASCEND.md` — mapa maestro.
 
