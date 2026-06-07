@@ -1,3 +1,169 @@
+# YouTube — plan desde creación / ordenamiento
+
+## Estado actual conocido
+
+Canal registrado en notas:
+
+- https://www.youtube.com/@InfinityAscend-e5r
+
+YouTube ya tiene videos y datos históricos. Por eso el plan aquí no es solo crear desde cero, sino **ordenar el canal existente como archivo audiovisual principal**.
+
+## Rol del canal
+
+YouTube debe funcionar como:
+
+- archivo de videoclips completos;
+- visualizers;
+- lyric videos;
+- Shorts reciclados desde TikTok/Reels;
+- buscador de largo plazo para el universo Infinity Ascend.
+
+## Objetivo inicial
+
+Que una persona que llegue al canal entienda:
+
+```text
+qué es Infinity Ascend + qué canción escuchar + qué visual mirar + dónde seguir
+```
+
+## Configuración del canal
+
+### Nombre visible
+
+```text
+Infinity Ascend
+```
+
+### Handle ideal
+
+- `@InfinityAscend`
+- `@InfinityAscendMusic`
+- mantener `@InfinityAscend-e5r` si no se puede cambiar todavía.
+
+### Descripción recomendada
+
+```text
+Infinity Ascend creates soft futuristic electropop for dreamers, seekers and souls in transition.
+
+Music for peace, light and inner ascension — blending emotional electronic soundscapes with sci-fi spiritual visuals of portals, horizons, cosmic helmets and transcendence.
+
+Follow the ascent.
+```
+
+### Banner
+
+Usar:
+
+- `MDs/PaginaWeb/imagen.png`
+- o `Imagenes/Videoclips/InfinityAscend/12.png`
+
+### Avatar
+
+Usar:
+
+- `Imagenes/Instagram/ig_03_cosmic_helmet.png`
+- o `Imagenes/contextuales/Thehelmet.png`
+
+## Playlists recomendadas
+
+Crear playlists:
+
+1. **Official Music Videos**
+2. **Visualizers**
+3. **Infinity Ascend Shorts**
+4. **The Ascension Archive**
+5. **Behind the Universe / Lore**
+
+## Estructura de títulos
+
+### Para videoclips
+
+```text
+Infinity Ascend — [Song Title] (Official Visualizer)
+```
+
+### Para lyric videos
+
+```text
+Infinity Ascend — [Song Title] (Lyric Video)
+```
+
+### Para Shorts
+
+```text
+Music for inner ascension #shorts
+```
+
+## Descripción base para videos
+
+```text
+[Song Title] by Infinity Ascend.
+
+Soft futuristic electropop for peace, dreams and inner ascension.
+
+Infinity Ascend is a journey through light, portals, memory and transcendence — music for dreamers, seekers and souls in transition.
+
+Follow the ascent.
+
+#InfinityAscend #SoftElectronic #Electropop #CinematicMusic #DreamyMusic #InnerPeace #SciFiAesthetic
+```
+
+## Ajuste importante de hashtags
+
+Los videos anteriores usan mucho `#EDM`. Para la nueva etapa, reducirlo o reemplazarlo por:
+
+- `#SoftElectronic`
+- `#Electropop`
+- `#CinematicMusic`
+- `#DreamyMusic`
+- `#AmbientPop`
+- `#Synthpop`
+- `#VisualMusic`
+- `#InnerPeace`
+- `#SciFiAesthetic`
+
+## Plan de publicación inicial
+
+### Semana 1
+
+- Actualizar descripción del canal.
+- Actualizar avatar/banner.
+- Crear playlists.
+- Fijar mejor video o trailer.
+- Crear 3 Shorts desde imágenes existentes.
+
+### Semana 2
+
+- Subir o republicar un visualizer mejor ordenado.
+- Crear 3 Shorts con hooks de TikTok.
+- Actualizar descripciones antiguas si se puede.
+
+### Semana 3
+
+- Crear 1 lyric video simple.
+- Publicar 3 Shorts.
+- Revisar retención.
+
+### Semana 4
+
+- Publicar compilación/visualizer.
+- Crear 3 Shorts con el hook ganador.
+- Revisar CTR y subs.
+
+## Métricas
+
+- CTR de thumbnail;
+- retención;
+- subs por video;
+- comentarios;
+- búsquedas que traen tráfico;
+- Shorts que empujan al canal.
+
+## Notas históricas preservadas
+
+Estas notas estaban en el archivo original antes del plan:
+
+```text
 https://www.youtube.com/@InfinityAscend-e5r
 
 Videos:
@@ -62,3 +228,4 @@ Infinity is in us all.
 #InfinityAscend #EDM #MotivationalMusic #RiseAbove #DreamBig #ElectronicMusic #UpliftingBeats #FutureSound #NeverStopRising #AscendForever #motivational #pop #popmusic
 
 (el mismo que el primer video pero este hecho con animaciones muy basicas en Unreal Engine)
+```
