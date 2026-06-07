@@ -442,6 +442,7 @@ Qué dejar de hacer:
 - `MDs/Marketing/CampanasVisuales/README.md` — guía de producción visual por campaña.
 - `MDs/Marketing/ROLES_OPERATIVOS_PROYECTO.md` — mapa de funciones del equipo ideal y qué puede asistir AION.
 - `MDs/Marketing/CRONJOBS_TEXTO_ESTRATEGICOS.md` — roles textuales convertibles en cronjobs: estrategia, lore, copy, investigación, métricas y gestión.
+- `MDs/Marketing/CRONJOBS_HERMES_ACTIVOS.md` — cronjobs reales de Hermes activos para Infinity Ascend.
 - `MDs/Marketing/OBJETIVOS_METRICAS_90_DIAS.md` — metas cuantitativas.
 - `PLAN_GENERAL_INFINITY_ASCEND.md` — mapa maestro.
 

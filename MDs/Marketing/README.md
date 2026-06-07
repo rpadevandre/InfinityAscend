@@ -22,7 +22,10 @@ Esta carpeta contiene los documentos estratégicos para convertir Infinity Ascen
 5. `CRONJOBS_TEXTO_ESTRATEGICOS.md`  
    Diseño de cronjobs de solo texto para cubrir estrategia, lore, copy, planificación, investigación, métricas, documentación y próximos pasos sin tocar imagen/video/audio.
 
-6. `OBJETIVOS_METRICAS_90_DIAS.md`  
+6. `CRONJOBS_HERMES_ACTIVOS.md`  
+   Registro de los cronjobs reales de Hermes creados para Infinity Ascend: IDs, horarios, objetivos, outputs y reglas de operación.
+
+7. `OBJETIVOS_METRICAS_90_DIAS.md`  
    Objetivos cuantitativos por red social desde la fecha base 2026-06-07: views, responses, seguidores, streams, saves y clicks para 30/60/90 días.
 
 ## Principio

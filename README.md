@@ -60,6 +60,7 @@ Define a quién habla el proyecto, qué promete, qué tono debe usar y qué debe
 - [`MDs/Marketing/OBJETIVOS_METRICAS_90_DIAS.md`](MDs/Marketing/OBJETIVOS_METRICAS_90_DIAS.md)
 - [`MDs/Marketing/ROLES_OPERATIVOS_PROYECTO.md`](MDs/Marketing/ROLES_OPERATIVOS_PROYECTO.md)
 - [`MDs/Marketing/CRONJOBS_TEXTO_ESTRATEGICOS.md`](MDs/Marketing/CRONJOBS_TEXTO_ESTRATEGICOS.md)
+- [`MDs/Marketing/CRONJOBS_HERMES_ACTIVOS.md`](MDs/Marketing/CRONJOBS_HERMES_ACTIVOS.md)
 - [`MDs/Marketing/CampanasVisuales/README.md`](MDs/Marketing/CampanasVisuales/README.md)
 
 Aquí está el sistema práctico para publicar, medir, repetir y decidir con datos.
