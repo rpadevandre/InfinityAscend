@@ -19,7 +19,10 @@ Esta carpeta contiene los documentos estratégicos para convertir Infinity Ascen
 4. `ROLES_OPERATIVOS_PROYECTO.md`  
    Mapa de las 22 funciones necesarias para operar bien Infinity Ascend: dirección creativa, contenido, redes, distribución, datos y automatización.
 
-5. `OBJETIVOS_METRICAS_90_DIAS.md`  
+5. `CRONJOBS_TEXTO_ESTRATEGICOS.md`  
+   Diseño de cronjobs de solo texto para cubrir estrategia, lore, copy, planificación, investigación, métricas, documentación y próximos pasos sin tocar imagen/video/audio.
+
+6. `OBJETIVOS_METRICAS_90_DIAS.md`  
    Objetivos cuantitativos por red social desde la fecha base 2026-06-07: views, responses, seguidores, streams, saves y clicks para 30/60/90 días.
 
 ## Principio
