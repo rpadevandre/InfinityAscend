@@ -4,6 +4,9 @@ Esta carpeta contiene los documentos estratégicos para convertir Infinity Ascen
 
 ## Orden de lectura
 
+0. `../../PLAN_GENERAL_INFINITY_ASCEND.md`  
+   Plan maestro que conecta contexto, canales, fases, métricas y próximos pasos.
+
 1. `PLAN_ESTRATEGIA.md`  
    Estrategia general del proyecto: posicionamiento, fases, canales, contenido y riesgos.
 
