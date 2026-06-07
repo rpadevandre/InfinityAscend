@@ -10,7 +10,10 @@ Esta carpeta contiene el sistema de creación y operación de canales sociales p
 2. `REGISTRO_CANALES.md`  
    Archivo vivo para registrar URLs, handles y estado real de cada canal.
 
-3. Canal por canal:
+3. `PRIORIDADES_TARGET.md`  
+   Orden de prioridad por target: idioma, países, redes, frecuencia y métricas.
+
+4. Canal por canal:
    - `Spotify.md`
    - `Tiktok.md`
    - `Instagram.md`

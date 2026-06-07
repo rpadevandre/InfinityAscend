@@ -177,3 +177,7 @@ El público inicial recomendado es:
 > Jóvenes adultos angloparlantes de Europa, UK, Canadá, Australia y USA que escuchan música electrónica suave, emocional y futurista para relajarse, soñar, concentrarse o conectar con una sensación de trascendencia.
 
 Este público debe guiar los próximos documentos de posicionamiento, marketing, Spotify, TikTok y web.
+
+Para prioridades concretas de idioma, país, red social, frecuencia y métricas ver:
+
+- `MDs/RedesSociales/PRIORIDADES_TARGET.md`

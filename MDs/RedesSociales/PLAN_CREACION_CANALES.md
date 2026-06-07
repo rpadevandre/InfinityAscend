@@ -39,17 +39,29 @@ Usernames en orden de preferencia:
 
 ## Canales prioritarios
 
-### Prioridad 1 — Necesarios
+La prioridad se define por función, no solo por tamaño de plataforma.
 
-1. **Spotify / streaming** — destino de escucha y guardado.
-2. **TikTok** — descubrimiento rápido y test de hooks.
-3. **Instagram** — identidad visual y confianza.
-4. **YouTube** — archivo audiovisual, videos largos y Shorts.
+### Prioridad 1 — Conversión musical
 
-### Prioridad 2 — Complementarios
+1. **Spotify / streaming** — destino de escucha, guardado y señales algorítmicas.
 
-5. **Facebook Page** — presencia básica, reciclaje de contenido, legitimidad.
-6. **Landing / link-in-bio** — centro de enlaces y conversión.
+### Prioridad 2 — Descubrimiento y test
+
+2. **TikTok** — motor principal para probar hooks de 7–15 segundos.
+3. **YouTube Shorts** — descubrimiento adicional y puente al canal largo.
+4. **Instagram Reels** — descubrimiento + validación visual.
+
+### Prioridad 3 — Identidad y archivo
+
+5. **Instagram feed** — vitrina visual, posts fijados, carruseles y confianza.
+6. **YouTube largo** — visualizers, lyric videos, archivo audiovisual y búsqueda.
+
+### Prioridad 4 — Soporte
+
+7. **Landing / link-in-bio** — centro de enlaces y conversión.
+8. **Facebook Page** — presencia básica, reciclaje de contenido, legitimidad.
+
+Ver también: `PRIORIDADES_TARGET.md`.
 
 ## Checklist global antes de crear cuentas
 
