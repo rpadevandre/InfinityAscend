@@ -328,6 +328,10 @@ No obsesionarse con views aisladas. Medir:
 
 Una pieza con menos views pero muchos guardados puede ser más valiosa que una viral vacía.
 
+Para objetivos cuantitativos por fecha y red social ver:
+
+- `MDs/Marketing/OBJETIVOS_METRICAS_90_DIAS.md`
+
 ## Qué crear primero
 
 Orden recomendado:
