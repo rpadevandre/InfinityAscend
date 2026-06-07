@@ -13,7 +13,10 @@ Esta carpeta contiene el sistema de creación y operación de canales sociales p
 3. `PRIORIDADES_TARGET.md`  
    Orden de prioridad por target: idioma, países, redes, frecuencia y métricas.
 
-4. Canal por canal:
+4. `../Marketing/CALENDARIO_30_DIAS.md`  
+   Calendario general de publicación y validación para TikTok, Reels, Shorts, Instagram, YouTube y Spotify/landing.
+
+5. Canal por canal:
    - `Spotify.md`
    - `Tiktok.md`
    - `Instagram.md`
@@ -21,7 +24,7 @@ Esta carpeta contiene el sistema de creación y operación de canales sociales p
    - `Facebook.md`
    - `LANDING_LINK_IN_BIO.md`
 
-4. Carpeta específica de Instagram:
+6. Carpeta específica de Instagram:
    - `Instagram/PLAN_INSTAGRAM.md`
    - `Instagram/CALENDARIO_30_DIAS_INSTAGRAM.md`
    - `Instagram/PROMPTS_INSTAGRAM.md`

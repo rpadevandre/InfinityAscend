@@ -10,7 +10,10 @@ Esta carpeta contiene los documentos estratégicos para convertir Infinity Ascen
 1. `PLAN_ESTRATEGIA.md`  
    Estrategia general del proyecto: posicionamiento, fases, canales, contenido y riesgos.
 
-2. `OBJETIVOS_METRICAS_90_DIAS.md`  
+2. `CALENDARIO_30_DIAS.md`  
+   Calendario operativo multicanal para los primeros 30 días: TikTok, Reels, Shorts, Instagram feed/stories, YouTube, Spotify/landing y revisión semanal de métricas.
+
+3. `OBJETIVOS_METRICAS_90_DIAS.md`  
    Objetivos cuantitativos por red social desde la fecha base 2026-06-07: views, responses, seguidores, streams, saves y clicks para 30/60/90 días.
 
 ## Principio

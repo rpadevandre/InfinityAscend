@@ -316,6 +316,10 @@ Duración: día 30–60, o desde que los canales estén listos.
 
 Objetivo: encontrar señales reales.
 
+Documento operativo:
+
+- `MDs/Marketing/CALENDARIO_30_DIAS.md` — calendario multicanal día por día para TikTok, Reels, Shorts, Instagram, YouTube y Spotify/landing.
+
 Frecuencia mínima:
 
 - TikTok: 4–5 videos/semana.
@@ -433,6 +437,7 @@ Qué dejar de hacer:
 ### Marketing
 
 - `MDs/Marketing/PLAN_ESTRATEGIA.md` — estrategia base.
+- `MDs/Marketing/CALENDARIO_30_DIAS.md` — publicación y validación día por día durante 30 días.
 - `MDs/Marketing/OBJETIVOS_METRICAS_90_DIAS.md` — metas cuantitativas.
 - `PLAN_GENERAL_INFINITY_ASCEND.md` — mapa maestro.
 
