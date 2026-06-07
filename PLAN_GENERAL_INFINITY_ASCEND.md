@@ -440,6 +440,7 @@ Qué dejar de hacer:
 - `MDs/Marketing/PLAN_ESTRATEGIA.md` — estrategia base.
 - `MDs/Marketing/CALENDARIO_30_DIAS.md` — publicación y validación día por día durante 30 días.
 - `MDs/Marketing/CampanasVisuales/README.md` — guía de producción visual por campaña.
+- `MDs/Marketing/ROLES_OPERATIVOS_PROYECTO.md` — mapa de funciones del equipo ideal y qué puede asistir AION.
 - `MDs/Marketing/OBJETIVOS_METRICAS_90_DIAS.md` — metas cuantitativas.
 - `PLAN_GENERAL_INFINITY_ASCEND.md` — mapa maestro.
 

@@ -16,7 +16,10 @@ Esta carpeta contiene los documentos estratégicos para convertir Infinity Ascen
 3. `CampanasVisuales/README.md`  
    Instrucciones para que Andre genere manualmente imágenes por campaña usando las referencias visuales existentes del repo: AION, Peace, Portal, Dreams, Helmet Lore, Spotify, YouTube y Landing.
 
-4. `OBJETIVOS_METRICAS_90_DIAS.md`  
+4. `ROLES_OPERATIVOS_PROYECTO.md`  
+   Mapa de las 22 funciones necesarias para operar bien Infinity Ascend: dirección creativa, contenido, redes, distribución, datos y automatización.
+
+5. `OBJETIVOS_METRICAS_90_DIAS.md`  
    Objetivos cuantitativos por red social desde la fecha base 2026-06-07: views, responses, seguidores, streams, saves y clicks para 30/60/90 días.
 
 ## Principio

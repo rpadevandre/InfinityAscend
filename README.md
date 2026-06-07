@@ -58,6 +58,7 @@ Define a quién habla el proyecto, qué promete, qué tono debe usar y qué debe
 - [`MDs/Marketing/PLAN_ESTRATEGIA.md`](MDs/Marketing/PLAN_ESTRATEGIA.md)
 - [`MDs/Marketing/CALENDARIO_30_DIAS.md`](MDs/Marketing/CALENDARIO_30_DIAS.md)
 - [`MDs/Marketing/OBJETIVOS_METRICAS_90_DIAS.md`](MDs/Marketing/OBJETIVOS_METRICAS_90_DIAS.md)
+- [`MDs/Marketing/ROLES_OPERATIVOS_PROYECTO.md`](MDs/Marketing/ROLES_OPERATIVOS_PROYECTO.md)
 - [`MDs/Marketing/CampanasVisuales/README.md`](MDs/Marketing/CampanasVisuales/README.md)
 
 Aquí está el sistema práctico para publicar, medir, repetir y decidir con datos.
@@ -89,7 +90,7 @@ Documentos por canal:
 - [`Imagenes/INDICE_VISUAL.md`](Imagenes/INDICE_VISUAL.md)
 - [`Imagenes/contextuales/`](Imagenes/contextuales/)
 - [`Imagenes/Videoclips/InfinityAscend/`](Imagenes/Videoclips/InfinityAscend/)
-- [`Imagenes/Instagram/`](Imagenes/Instagram/)
+- [`MDs/Marketing/CampanasVisuales/README.md`](MDs/Marketing/CampanasVisuales/README.md)
 
 El índice visual es especialmente importante: describe qué imagen sirve para qué, qué símbolos ya existen y cómo evitar que nuevas generaciones se alejen del ADN visual del proyecto.
 
